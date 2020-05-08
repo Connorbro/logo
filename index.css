@@ -35,6 +35,7 @@ body
 {
     
     content: '';
+    
     position: absolute;
     bottom: -25px;
     left: -13px;
